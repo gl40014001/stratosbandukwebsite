@@ -1,0 +1,11 @@
+facebook:
+  id: 'stratosbanduk'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook-square'
+
+instagram:
+  id: 'stratosbanduk'
+  href: 'https://www.instagram.com/'
+  title: 'Instagram'
+  fa-icon: 'fa-instagram'
