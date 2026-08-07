@@ -19,6 +19,6 @@ Go to our [Video page](video.html) for more live clips!
 
 For bookings and general enquiries please go to our [Contact page](contact.html). 
 #### Band bio
-As a happy accident we formed at short notice to play at a rather well-to-do birthday party (for a Lord, no less!) when another band couldn't make it. We quickly put together an upbeat set focussed on classic funk tunes.  No rehearsal. We just showed up and played. The four of us just 'clicked' with a great groove like we'd been together for years.  We loved it and got great feedback from everyone.  We all agreed we'd love to do it again.  We've done some low key gigs since and want to bring our funky, groovy sound to a wider audience.
+We formed at short notice to play at a rather well-to-do birthday party (for a Lord and his wife, no less!) when another band couldn't make it. We quickly put together an upbeat set focussed on classic funk tunes. No rehearsal. We just showed up and played. The four of us just 'clicked' with a great groove like we'd been together for years.  We loved it and got great feedback from everyone and vowed to do it again.  Since then we've done some low key gigs and now want to bring our funky, groovy sound to a wider audience!
 
 
